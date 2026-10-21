@@ -48,8 +48,9 @@ O firmware utiliza pull-up interno ativo. Todos os switches fecham contato com o
 
 * 📁 **`3DPrint/`**
   * `Keyboard - Panel.stl` — Painel superior (moldura guia das teclas)
-  * `Keyboard 1P - Base.stl` — Base inferior do teclado (aumentar Z em +4mm a +6mm no fatiador)
-  * `Keyboard - Switch_Plate_MX.stl` — **Placa de sustentação 1.6mm com furos 14x14mm para os switches MX**
+  * `Keyboard 1P - Base.stl` — **Base inferior já estendida em +6 mm (13 mm total) para acomodar perfeitamente os switches Outemu MX Brown e a fiação manual**
+  * `Keyboard - Switch_Plate_MX.stl` — **Placa de sustentação 1.6 mm com furos 14x14 mm para os switches MX**
+
   * `Keycap - Pico Choc V2.stl` — Teclas (4x Brancas, 3x Pretas)
   * `Turntable Pico - Base.stl` — Base do disco
   * `Turntable Pico - Disc.stl` — Disco giratório

@@ -19,10 +19,10 @@ Pasta dos arquivos originais: https://github.com/whowechina/iidx_pico/tree/main/
     - Quantidade: 1 unidade
     - Cor recomendada: Preto ou Cinza Escuro
     - Função: Carcaça inferior do teclado (lado 1P = disco na esquerda).
-    - ⚠️ NOTA DE FATIAMENTO: Como vamos usar switches mecânicos padrão MX (mais altos
-      que o Choc low-profile) e fazer fiação manual, favor aumentar a altura (eixo Z)
-      desta base no fatiador em +4 mm a +6 mm.
-    - Link: https://github.com/whowechina/iidx_pico/blob/main/Production/3DPrint/Keyboard%201P%20-%20Base.stl
+    - ⭐ JÁ PRONTO E AJUSTADO: Este arquivo já foi estendido em +6 mm de profundidade
+      para acomodar perfeitamente os switches Outemu MX Brown e a fiação manual.
+      Pode imprimir normalmente na escala 100%, sem precisar alterar nada no fatiador!
+
 
 [3] Keyboard - Switch_Plate_MX.stl  ⭐ [ARQUIVO GERADO LOCALMENTE NESTA PASTA]
     - Quantidade: 1 unidade
