@@ -1,0 +1,103 @@
+================================================================================
+          LISTA DE PEÇAS PARA IMPRESSÃO 3D - CONTROLE BEATMANIA IIDX PICO
+                 (Versão Custom Hand-Wired com Switches MX Brown)
+================================================================================
+Repositório Oficial: https://github.com/whowechina/iidx_pico
+Pasta dos arquivos originais: https://github.com/whowechina/iidx_pico/tree/main/Production/3DPrint
+
+--------------------------------------------------------------------------------
+1. MÓDULO DO TECLADO (KEYBOARD)
+--------------------------------------------------------------------------------
+
+[1] Keyboard - Panel.stl
+    - Quantidade: 1 unidade
+    - Cor recomendada: Preto ou Cinza Escuro
+    - Função: Painel superior / moldura guia das teclas.
+    - Link: https://github.com/whowechina/iidx_pico/blob/main/Production/3DPrint/Keyboard%20-%20Panel.stl
+
+[2] Keyboard 1P - Base.stl
+    - Quantidade: 1 unidade
+    - Cor recomendada: Preto ou Cinza Escuro
+    - Função: Carcaça inferior do teclado (lado 1P = disco na esquerda).
+    - ⚠️ NOTA DE FATIAMENTO: Como vamos usar switches mecânicos padrão MX (mais altos
+      que o Choc low-profile) e fazer fiação manual, favor aumentar a altura (eixo Z)
+      desta base no fatiador em +4 mm a +6 mm.
+    - Link: https://github.com/whowechina/iidx_pico/blob/main/Production/3DPrint/Keyboard%201P%20-%20Base.stl
+
+[3] Keyboard - Switch_Plate_MX.stl  ⭐ [ARQUIVO GERADO LOCALMENTE NESTA PASTA]
+    - Quantidade: 1 unidade
+    - Cor recomendada: Preto ou qualquer cor
+    - Espessura: 1.6 mm
+    - Função: Placa de sustentação que substitui a PCB verde. Possui os recortes
+      quadrados padrão de 14x14 mm onde os switches Brown entram sob pressão e travam.
+    - Localização: Já está salva direto na pasta do projeto: "Keyboard - Switch_Plate_MX.stl"
+
+--------------------------------------------------------------------------------
+2. AS TECLAS (KEYCAPS)
+--------------------------------------------------------------------------------
+
+[4] Keycap - Pico Choc V2.stl (BRANCA)
+    - Quantidade: 4 unidades
+    - Cor: BRANCO
+    - Função: Teclas brancas 1, 3, 5 e 7.
+    - Obs: Imprimir com o topo da tecla apoiado na mesa da impressora para acabamento liso.
+    - Link: https://github.com/whowechina/iidx_pico/blob/main/Production/3DPrint/Keycap%20-%20Pico%20Choc%20V2.stl
+
+[5] Keycap - Pico Choc V2.stl (PRETA)
+    - Quantidade: 3 unidades
+    - Cor: PRETO
+    - Função: Teclas pretas 2, 4 e 6.
+    - Obs: Imprimir com o topo da tecla apoiado na mesa da impressora.
+    - Link: https://github.com/whowechina/iidx_pico/blob/main/Production/3DPrint/Keycap%20-%20Pico%20Choc%20V2.stl
+
+*(Opcional: se quiser botões para os menus E1~E4, imprimir mais 4 unidades do Keycap V2)*
+
+--------------------------------------------------------------------------------
+3. MÓDULO DO DISCO GIRATÓRIO (TURNTABLE)
+--------------------------------------------------------------------------------
+
+[6] Turntable Pico - Base.stl
+    - Quantidade: 1 unidade
+    - Cor recomendada: Preto ou Cinza Escuro
+    - Função: Carcaça base do disco.
+    - Link: https://github.com/whowechina/iidx_pico/blob/main/Production/3DPrint/Turntable%20Pico%20-%20Base.stl
+
+[7] Turntable Pico - Disc.stl
+    - Quantidade: 1 unidade
+    - Cor recomendada: Preto
+    - Função: O disco giratório do scratch.
+    - Link: https://github.com/whowechina/iidx_pico/blob/main/Production/3DPrint/Turntable%20Pico%20-%20Disc.stl
+
+[8] Turntable Pico - Banner.stl
+    - Quantidade: 1 unidade
+    - Cor recomendada: Branco ou Preto
+    - Função: Placa de acabamento do topo do turntable.
+    - Link: https://github.com/whowechina/iidx_pico/blob/main/Production/3DPrint/Turntable%20Pico%20-%20Banner.stl
+
+[9] Turntable - Bearing Seat.stl
+    - Quantidade: 1 unidade
+    - Cor: Qualquer cor
+    - Função: Berço onde o rolamento 61804 (20x32x7mm) entra sob pressão.
+    - Link: https://github.com/whowechina/iidx_pico/blob/main/Production/3DPrint/Turntable%20-%20Bearing%20Seat.stl
+
+[10] Turntable - Disc Seat.stl
+    - Quantidade: 1 unidade
+    - Cor: Qualquer cor
+    - Função: Peça de acoplamento entre o rolamento e o disco.
+    - Link: https://github.com/whowechina/iidx_pico/blob/main/Production/3DPrint/Turntable%20-%20Disc%20Seat.stl
+
+[11] Turntable - Magnet Seat.stl
+    - Quantidade: 1 unidade
+    - Cor: Qualquer cor
+    - Função: Eixo central com furo de 5x2 mm para colar o ímã magnético diametral do AS5600.
+    - Link: https://github.com/whowechina/iidx_pico/blob/main/Production/3DPrint/Turntable%20-%20Magnet%20Seat.stl
+
+--------------------------------------------------------------------------------
+4. DICAS GERAIS DE IMPRESSÃO
+--------------------------------------------------------------------------------
+- Material recomendado: PLA ou PETG
+- Preenchimento (Infill): 15% a 20% (padrão Gyroid ou Grid)
+- Paredes (Perimeters): 3 ou 4 paredes para boa rigidez mecânica
+- Não imprimir peças com "2B" (Turntable 2B é para versão de rolamento duplo diferente)
+- Não imprimir "Choc V1" (pois o V1 não tem a cruz para switches MX)
+================================================================================
